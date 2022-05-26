@@ -1,0 +1,7 @@
+@article{sarvesh2022reshaping,
+  title={Reshaping Local Path Planner},
+  author={Sarvesh, Akshay and Carroll, Austin and Gopalswamy, Swaminathan},
+  journal={IEEE Robotics and Automation Letters},
+  year={2022},
+  publisher={IEEE}
+}
